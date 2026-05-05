@@ -23,7 +23,7 @@
 
 <div align="center">
   <p><a href="https://datawhalechina.github.io/happy-llm/">📚 在线阅读地址</a></p>
-  <h3>📚 从零开始的大语言模型原理与实践教程</h3>
+  <h3>📚 从零开始构建大模型</h3>
   <p><em>深入理解 LLM 核心原理，动手实现你的第一个大模型</em></p>
 </div>
 
@@ -93,7 +93,11 @@
 
 &emsp;&emsp;***本 Happy-LLM PDF 教程完全开源免费。为防止各类营销号加水印后贩卖给大模型初学者，我们特地在 PDF 文件中预先添加了不影响阅读的 Datawhale 开源标志水印，敬请谅解～***
 
-> *Happy-LLM PDF : https://github.com/datawhalechina/happy-llm/releases/tag/v1.0.1*  
+> *Happy-LLM PDF : https://github.com/datawhalechina/happy-llm/releases/tag/v1.0.2*  
+
+### PPT 资源下载
+
+&emsp;&emsp;***本项目配套教学讲义PPT课件资源获取链接：https://github.com/HZAI-ZJNU/happy-llm-ppt 或可在本项目的 [Releases](https://github.com/datawhalechina/happy-llm/releases) 页面下载。***
 
 ## 💡 如何学习
 
@@ -119,7 +123,7 @@
 ## 🙏 致谢
 
 ### 核心贡献者
-- [宋志学-项目负责人](https://github.com/KMnO4-zx) (Datawhale成员-中国矿业大学(北京))
+- [宋志学-项目负责人](https://github.com/KMnO4-zx) (Datawhale成员)
 - [邹雨衡-项目负责人](https://github.com/logan-zou) (Datawhale成员-对外经济贸易大学)
 - [朱信忠-指导专家](https://xinzhongzhu.github.io/)（Datawhale首席科学家-浙江师范大学杭州人工智能研究院教授）
 
